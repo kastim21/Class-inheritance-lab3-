@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Gyrocopter_UA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gyrocopter_UA\\.nuget\\packages"
+    ]
+  }
+}
