@@ -11,3 +11,16 @@ D:\Лаб ООП\лаб3\лаб3\bin\Debug\netcoreapp3.1\лаб3.pdb
 D:\Лаб ООП\лаб3\лаб3\obj\Debug\netcoreapp3.1\лаб3.dll
 D:\Лаб ООП\лаб3\лаб3\obj\Debug\netcoreapp3.1\лаб3.pdb
 D:\Лаб ООП\лаб3\лаб3\obj\Debug\netcoreapp3.1\лаб3.genruntimeconfig.cache
+D:\Лаб ООП\lab3\лаб3\bin\Debug\netcoreapp3.1\лаб3.exe
+D:\Лаб ООП\lab3\лаб3\bin\Debug\netcoreapp3.1\лаб3.deps.json
+D:\Лаб ООП\lab3\лаб3\bin\Debug\netcoreapp3.1\лаб3.runtimeconfig.json
+D:\Лаб ООП\lab3\лаб3\bin\Debug\netcoreapp3.1\лаб3.runtimeconfig.dev.json
+D:\Лаб ООП\lab3\лаб3\bin\Debug\netcoreapp3.1\лаб3.dll
+D:\Лаб ООП\lab3\лаб3\bin\Debug\netcoreapp3.1\лаб3.pdb
+D:\Лаб ООП\lab3\лаб3\obj\Debug\netcoreapp3.1\лаб3.csprojAssemblyReference.cache
+D:\Лаб ООП\lab3\лаб3\obj\Debug\netcoreapp3.1\лаб3.AssemblyInfoInputs.cache
+D:\Лаб ООП\lab3\лаб3\obj\Debug\netcoreapp3.1\лаб3.AssemblyInfo.cs
+D:\Лаб ООП\lab3\лаб3\obj\Debug\netcoreapp3.1\лаб3.csproj.CoreCompileInputs.cache
+D:\Лаб ООП\lab3\лаб3\obj\Debug\netcoreapp3.1\лаб3.dll
+D:\Лаб ООП\lab3\лаб3\obj\Debug\netcoreapp3.1\лаб3.pdb
+D:\Лаб ООП\lab3\лаб3\obj\Debug\netcoreapp3.1\лаб3.genruntimeconfig.cache

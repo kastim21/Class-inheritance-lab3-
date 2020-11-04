@@ -1,20 +1,21 @@
 ﻿using System;
 
-
-class CPoint
+abstract class CGraphicsObject
+{
+    public abstract void Show();
+      
+}
+class CPoint : CGraphicsObject
 {
     public double x { get; set; }
     public double y { get; set; }
     public CPoint(double X, double Y) { x = X; y = Y; }
-
-    public  void Show()
+    public override  void Show()
     {
-        Console.WriteLine("parent class: \nx= " + x +", y= " + y); 
+        Console.WriteLine("CPoint: x= " + x +", y= " + y); 
     }
 
 }
-
-
 class Circle : CPoint
 {
     public double Radius { get; set; }
@@ -30,15 +31,16 @@ class Circle : CPoint
         return 2 * Math.PI * Radius;
     }
 
-
-    public  void Show()
+    public override void Show()
     {
         base.Show();
-        Console.WriteLine("class Circle: \nRadius= " + Radius + ", Diameter= " + Diameter() + ", Circumference= " + Circumference()) ;
-        
+        Console.WriteLine("Circle: Radius= " + Radius + ", Diameter= " + Diameter() + ", Circumference= " + Circumference()) ;
+    }
+    ~Circle()
+    {
+        Console.WriteLine("disposed");
     }
 }
-
 
 class HelloWorld
 {
@@ -46,9 +48,6 @@ class HelloWorld
     {
         Circle Circle1 = new Circle(5.25,2,3);
           Circle1.Show();
-
-
-
 
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Лаб ООП\\лаб3\\лаб3\\лаб3.csproj": {}
+    "D:\\Лаб ООП\\lab3\\лаб3\\лаб3.csproj": {}
   },
   "projects": {
-    "D:\\Лаб ООП\\лаб3\\лаб3\\лаб3.csproj": {
+    "D:\\Лаб ООП\\lab3\\лаб3\\лаб3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Лаб ООП\\лаб3\\лаб3\\лаб3.csproj",
+        "projectUniqueName": "D:\\Лаб ООП\\lab3\\лаб3\\лаб3.csproj",
         "projectName": "лаб3",
-        "projectPath": "D:\\Лаб ООП\\лаб3\\лаб3\\лаб3.csproj",
+        "projectPath": "D:\\Лаб ООП\\lab3\\лаб3\\лаб3.csproj",
         "packagesPath": "C:\\Users\\Gyrocopter_UA\\.nuget\\packages\\",
-        "outputPath": "D:\\Лаб ООП\\лаб3\\лаб3\\obj\\",
+        "outputPath": "D:\\Лаб ООП\\lab3\\лаб3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gyrocopter_UA\\AppData\\Roaming\\NuGet\\NuGet.Config",
